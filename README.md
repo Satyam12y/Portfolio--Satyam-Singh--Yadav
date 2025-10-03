@@ -9,4 +9,4 @@ It showcases my projects, skills, and contact details in a clean and responsive 
 - Social media links
 - Simple and modern UI
 ## 🚀 Live Demo
-[Click here to view my portfolio](https://your-portfolio-link.com)
+[Click here to view my portfolio](https://satyam12y.github.io/Portfolio--Satyam-Singh--Yadav/)
